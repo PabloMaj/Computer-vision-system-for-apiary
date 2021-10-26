@@ -1,3 +1,10 @@
+## What our system can do?
+
+- bee detection,
+- pollen loads detection,
+- bee pose estimation,
+- activity in time analysis.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
