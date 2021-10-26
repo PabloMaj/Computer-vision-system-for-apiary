@@ -4,6 +4,7 @@
     <span class="col-third">Jacek Reiner</span>
 </div>
 
+
 ## What our system can do?
 
 - bee detection,
@@ -11,7 +12,11 @@
 - bee pose estimation,
 - activity in time analysis.
 
-## Summary of the number of samples collected during the 2021 season 
+## Summary of the 2021 season
+
+### Number of collected samples
+
+
 
 ## Welcome to GitHub Pages
 
