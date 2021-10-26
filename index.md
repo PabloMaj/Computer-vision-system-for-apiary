@@ -7,6 +7,10 @@
 
 ## Summary of the 2021 season
 
+### IoT
+
+![IoT](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/IoT_image.jpg?raw=true)
+
 ### Number of collected samples
 
 ![Summary_no_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true)
