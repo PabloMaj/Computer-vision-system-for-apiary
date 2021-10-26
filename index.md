@@ -1,7 +1,7 @@
 <div class="row">
-    <span class="col-third">Col</span>
-    <span class="col-third">Col</span>
-    <span class="col-third">Col</span>
+    <span class="col-third">Paweł Majewski</span>
+    <span class="col-third">Piotr Lampa</span>
+    <span class="col-third">Jacek Reiner</span>
 </div>
 
 ## What our system can do?
