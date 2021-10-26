@@ -9,7 +9,7 @@
 
 ### Number of collected samples
 
-![Summary_number_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png)
+![Summary_number_samples](./blob/gh-pages/docs/assets/summary_no_collected_samples.png)
 
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
