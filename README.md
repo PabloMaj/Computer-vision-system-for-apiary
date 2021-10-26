@@ -1,2 +1,2 @@
-# Computer-vision-system-for-apiary
+# Computer vision system for apiary
 Repository of multitasking computer vision system for apiary
