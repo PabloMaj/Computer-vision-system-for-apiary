@@ -9,15 +9,11 @@
 
 ### IoT
 
-<p align="center">
 ![IoT](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/IoT_image.jpg?raw=true)
-</p>
 
 ### Number of collected samples
 
-<p align="center">
 ![Summary_no_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true)
-</p>
 
 <p align="center">
   <src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true">
