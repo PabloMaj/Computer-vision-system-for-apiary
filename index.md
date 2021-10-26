@@ -1,3 +1,9 @@
+<div class="row">
+    <span class="col-third">Col</span>
+    <span class="col-third">Col</span>
+    <span class="col-third">Col</span>
+</div>
+
 ## What our system can do?
 
 - bee detection,
