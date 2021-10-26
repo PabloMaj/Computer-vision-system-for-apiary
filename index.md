@@ -15,4 +15,8 @@
 
 ![Summary_no_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true)
 
+- > 400k images from 3 hive stations,
+- data acquisition from april 25 to september 15 without interruptions,
+- 
+
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
