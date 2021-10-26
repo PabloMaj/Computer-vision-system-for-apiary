@@ -9,7 +9,7 @@
 
 ### IoT
 
-![IoT](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/IoT_image.jpg?raw=true)
+![IoT](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/IoT_image.jpg?raw=true?style=centerme)
 
 ### Number of collected samples
 
