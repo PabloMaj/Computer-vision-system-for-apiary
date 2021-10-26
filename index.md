@@ -9,5 +9,7 @@
 
 ### Number of collected samples
 
+![Summary_number_samples](/gh-pages/docs/assets/summary_no_collected_samples.png)
+
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
