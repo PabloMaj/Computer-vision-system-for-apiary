@@ -26,7 +26,7 @@
 
 ![summary_temperature_raspberry](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/raspberry_temp_vs_external_temp.png?raw=true)
 
-## Position and orientation of bees determination
+### Position and orientation of bees determination
 
 ![position_orientation](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/midpoints_and_orientation_determination.png?raw=true)
 
