@@ -22,7 +22,7 @@
 
 ![summary_external_conditions](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_external_conditions.png?raw=true)
 
-## Temperature of raspberry depending on external temperature
+### Temperature of raspberry depending on external temperature
 
 ![summary_temperature_raspberry](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/raspberry_temp_vs_external_temp.png?raw=true)
 
