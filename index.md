@@ -13,13 +13,19 @@
 
 ### Number of collected samples
 
-![Summary_no_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true)
+![summary_no_samples](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_no_collected_samples.png?raw=true)
 
 - **400k** images from 3 hive stations,
 - data acquisition from **April 25 to September 15** without interruptions. 
 
 ### External conditions (temperature, humidity, pressure)
 
-![Summary_external_conditions](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_external_conditions.png?raw=true)
+![summary_external_conditions](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_external_conditions.png?raw=true)
+
+## Temperature of raspberry depending on external temperature
+
+![summary_temperature_raspberry](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/raspberry_temp_vs_external_temp.png?raw=true)
+
+
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
