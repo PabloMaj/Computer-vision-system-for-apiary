@@ -20,6 +20,6 @@
 
 ### External conditions (temperature, humidity, pressure)
 
-![Summary_external_conditions](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assetssummary_external_conditions.png?raw=true)
+![Summary_external_conditions](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/summary_external_conditions.png?raw=true)
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
