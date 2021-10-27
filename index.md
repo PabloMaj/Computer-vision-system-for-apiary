@@ -18,4 +18,6 @@
 - **400k** images from 3 hive stations,
 - data acquisition from **April 25 to September 15** without interruptions. 
 
+### External conditions (temperature, humidity, pressure)
+
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
