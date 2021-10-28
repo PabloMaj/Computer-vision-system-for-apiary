@@ -32,5 +32,7 @@
 
 ![position_orientation](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/midpoints_and_orientation_determination.png?raw=true)
 
+### Probability density function for bee location
+
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
