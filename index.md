@@ -34,5 +34,7 @@
 
 ### Probability density function for bee location
 
+![rgb_with_midpoints](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_midpoints.png?raw=true)
+![rgb_with_density_map](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_density_map.png?raw=true)
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
