@@ -39,3 +39,5 @@
 ![rgb_with_density_map](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_density_map.png?raw=true)
 
 [editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
+
+### Orientation of bees distribution in the area of analysis 
