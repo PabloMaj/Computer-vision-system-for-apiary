@@ -45,3 +45,11 @@
 ![rgb_with_midpoints](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_orientation_distribution.png?raw=true)
 <br />
 ![rgb_with_density_map](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/orientation_distribution_colorbar.png?raw=true)
+
+### Bee detection
+
+### Pollen loads detection and segmentation
+
+### Pollen loads clustering
+
+
