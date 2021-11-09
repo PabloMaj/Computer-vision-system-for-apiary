@@ -48,7 +48,7 @@
 
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
-*Metrics*<br />
+**Metrics**<br />
 AP = 94.47% (for IoU=0.5)<br />
 Working point (confidence score=0.95):<br />
 F1-score=0.9205<br />
@@ -57,7 +57,7 @@ recall=0.9052<br />
 
 ### Pollen loads detection
 
-*Metrics*<br />
+**Metrics**<br />
 AP = 94.58% (for IoU=0.5)<br />
 Working point (confidence score=0.95):<br />
 F1-score=0.9388<br />
