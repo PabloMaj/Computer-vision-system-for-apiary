@@ -49,8 +49,8 @@
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
 <p float="left">
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="700" />
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="700" /> 
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="600" />
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="600" /> 
 </p>
 
 **Metrics**<br />
@@ -63,8 +63,8 @@ recall=0.9052<br />
 ### Pollen loads detection
 
 <p float="left">
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png" width="700" />
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="700" /> 
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png" width="600" />
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="600" /> 
 </p>
 
 **Metrics**<br />
