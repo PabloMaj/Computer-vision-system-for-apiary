@@ -48,7 +48,21 @@
 
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
-### Pollen loads detection 
+*Metrics*
+AP = 94.47% (for IoU=0.5)
+Working point (confidence score=0.95):
+F1-score=0.9205
+precision=0.9363
+recall=0.9052
+
+### Pollen loads detection
+
+*Metrics*
+AP = 94.58% (for IoU=0.5)
+Working point (confidence score=0.95):
+F1-score=0.9388
+precision=0.9452
+recall=0.9324
 
 ### Pollen loads clustering
 
