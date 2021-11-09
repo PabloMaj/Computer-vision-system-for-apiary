@@ -50,8 +50,8 @@
 ![bee_7](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/bee_7.jpg?raw=true)
 
 <p float="left">
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="500" />
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="500" /> 
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="500" raw=true/>
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="500" raw=true/> 
 </p>
 
 **Metrics**<br />
