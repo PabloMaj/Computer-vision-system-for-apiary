@@ -67,9 +67,8 @@ recall=0.9052<br />
 ![pollen_9](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_9.jpg?raw=true)
 
 <p float="left">
-  ![pollen_7](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_7.jpg?raw=true)
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png" width="500" />
-  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="500" /> 
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png" width="500" raw=true/>
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="500" raw=true/> 
 </p>
 
 **Metrics**<br />
