@@ -49,9 +49,8 @@
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="100" />
+  <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="100" /> 
 </p>
 
 **Metrics**<br />
