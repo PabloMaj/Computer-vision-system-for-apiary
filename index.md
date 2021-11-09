@@ -73,9 +73,6 @@ recall=0.9052<br />
   <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="500" raw=true/> 
 </p>
 
-![prec_rec_bee](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png | width=500) 
-![f1_score_bee](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png | width=500)
-
 **Metrics**<br />
 AP = 94.58% (for IoU=0.5)<br />
 Working point (confidence score=0.95):<br />
