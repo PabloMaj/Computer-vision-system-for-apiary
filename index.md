@@ -48,6 +48,12 @@
 
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 **Metrics**<br />
 AP = 94.47% (for IoU=0.5)<br />
 Working point (confidence score=0.95):<br />
