@@ -49,11 +49,13 @@
 ![bee_3](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/bee_3.jpg?raw=true)
 ![bee_7](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/bee_7.jpg?raw=true)
 
+<html>
 <p float="left">
   <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_bee.png" width="500" raw=true/>
   <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_bee.png" width="500" raw=true/> 
 </p>
-
+</html>
+  
 **Metrics**<br />
 AP = 94.47% (for IoU=0.5)<br />
 Working point (confidence score=0.95):<br />
