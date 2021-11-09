@@ -65,12 +65,16 @@ recall=0.9052<br />
 
 ### Pollen loads detection
 
-![pollen_7](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_7.jpg?raw=true) ![pollen_9](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_9.jpg?raw=true)
+![pollen_7](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_7.jpg?raw=true) 
+![pollen_9](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/pollen_9.jpg?raw=true)
 
 <p float="left">
   <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png" width="500" raw=true/>
   <img src="https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png" width="500" raw=true/> 
 </p>
+
+![prec_rec_bee](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/precision_recall_pollen.png?raw=true | width=500) 
+![f1_score_bee](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/f1_score_confidence_pollen.png?raw=true | width=500)
 
 **Metrics**<br />
 AP = 94.58% (for IoU=0.5)<br />
