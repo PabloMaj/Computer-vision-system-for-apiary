@@ -38,18 +38,19 @@
 <br />
 ![rgb_with_density_map](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_density_map.png?raw=true)
 
-[editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
-
 ### Orientation of bees distribution in the area of analysis 
 
 ![rgb_with_midpoints](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_orientation_distribution.png?raw=true)
 <br />
 ![rgb_with_density_map](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/orientation_distribution_colorbar.png?raw=true)
 
-### Bee and pollen loads detection
+### Bee detection
 
 ![rgb_with_pred_boxes](https://github.com/PabloMaj/Computer-vision-system-for-apiary/blob/gh-pages/docs/assets/RGB_with_pred_boxes_1.png?raw=true)
 
+### Pollen loads detection 
+
 ### Pollen loads clustering
 
+[editor on GitHub](https://github.com/PabloMaj/Computer-vision-system-for-apiary/edit/gh-pages/index.md)
 
